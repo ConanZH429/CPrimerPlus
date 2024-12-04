@@ -199,6 +199,47 @@ target("Chap6-q")
 target("Chap6-r")
     set_kind("binary")
     add_files("src/Chap6/r.c")
+
+target("Chap7-a")
+    set_kind("binary")
+    add_files("src/Chap7/a.c")
+
+target("Chap7-b")
+    set_kind("binary")
+    add_files("src/Chap7/b.c")
+
+target("Chap7-c")
+    set_kind("binary")
+    add_files("src/Chap7/c.c")
+
+target("Chap7-d")
+    set_kind("binary")
+    add_files("src/Chap7/d.c")
+
+target("Chap7-e")
+    set_kind("binary")
+    add_files("src/Chap7/e.c")
+
+target("Chap7-f")
+    set_kind("binary")
+    add_files("src/Chap7/f.c")
+
+target("Chap7-g")
+    set_kind("binary")
+    add_files("src/Chap7/g.c")
+
+target("Chap7-h")
+    set_kind("binary")
+    add_files("src/Chap7/h.c")
+
+target("Chap7-i")
+    set_kind("binary")
+    add_files("src/Chap7/i.c")
+
+target("Chap7-j")
+    set_kind("binary")
+    add_files("src/Chap7/j.c")
+
 --
 -- If you want to known more usage about xmake, please see https://xmake.io
 --
