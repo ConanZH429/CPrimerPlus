@@ -128,6 +128,77 @@ target("Chap5-i")
     set_kind("binary")
     add_files("src/Chap5/i.c")
 
+target("Chap6-a")
+    set_kind("binary")
+    add_files("src/Chap6/a.c")
+
+target("Chap6-b")
+    set_kind("binary")
+    add_files("src/Chap6/b.c")
+
+target("Chap6-c")
+    set_kind("binary")
+    add_files("src/Chap6/c.c")
+
+target("Chap6-d")
+    set_kind("binary")
+    add_files("src/Chap6/d.c")
+
+target("Chap6-e")
+    set_kind("binary")
+    add_files("src/Chap6/e.c")
+
+target("Chap6-f")
+    set_kind("binary")
+    add_files("src/Chap6/f.c")
+
+target("Chap6-g")
+    set_kind("binary")
+    add_files("src/Chap6/g.c")
+
+target("Chap6-h")
+    set_kind("binary")
+    add_files("src/Chap6/h.c")
+
+target("Chap6-i")
+    set_kind("binary")
+    add_files("src/Chap6/i.c")
+
+target("Chap6-j")
+    set_kind("binary")
+    add_files("src/Chap6/j.c")
+
+target("Chap6-k")
+    set_kind("binary")
+    add_files("src/Chap6/k.c")
+
+target("Chap6-l")
+    set_kind("binary")
+    add_files("src/Chap6/l.c")
+
+target("Chap6-m")
+    set_kind("binary")
+    add_files("src/Chap6/m.c")
+
+target("Chap6-n")
+    set_kind("binary")
+    add_files("src/Chap6/n.c")
+
+target("Chap6-o")
+    set_kind("binary")
+    add_files("src/Chap6/o.c")
+
+target("Chap6-p")
+    set_kind("binary")
+    add_files("src/Chap6/p.c")
+
+target("Chap6-q")
+    set_kind("binary")
+    add_files("src/Chap6/q.c")
+
+target("Chap6-r")
+    set_kind("binary")
+    add_files("src/Chap6/r.c")
 --
 -- If you want to known more usage about xmake, please see https://xmake.io
 --
