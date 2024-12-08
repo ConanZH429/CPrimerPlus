@@ -275,6 +275,22 @@ target("Chap10-b")
 target("Chap10-c")
     set_kind("binary")
     add_files("src/Chap10/c.c")
+
+target("Chap10-d")
+    set_kind("binary")
+    add_files("src/Chap10/d.c")
+
+target("Chap10-e")
+    set_kind("binary")
+    add_files("src/Chap10/e.c")
+
+target("Chap10-f")
+    set_kind("binary")
+    add_files("src/Chap10/f.c")
+
+target("Chap10-g")
+    set_kind("binary")
+    add_files("src/Chap10/g.c")
 --
 -- If you want to known more usage about xmake, please see https://xmake.io
 --
